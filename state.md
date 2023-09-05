@@ -180,6 +180,5 @@ Este tutorial foi desenvolvido com base nas vagas informações do pawn-lang.pdf
 Autoria de DeviceBlack 😁✌️
 
 ### Veja esses exemplos de uso
-
-1. [Simulando um Semáforo](semaforo.md)
-2. [Ganchos em Funções](hooking.md)
+1. [Simulando um Semáforo](state/semaforo.md)
+2. [Ganchos em Funções](state/hooking.md)
